@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizableTutorial
+
+  Created by Macbook Pro 15 on 3/26/20.
+  Copyright © 2020 SamuelFolledo. All rights reserved.
+*/
+
+"Hello" = "Hola";
+"Bye" = "Adiós";
+"I love you" = "Te quiero";
+"I love fruits" = "Amo las frutas";
